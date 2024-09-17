@@ -1,6 +1,6 @@
 ## Hello there, I'm Lucas 👋
 
-I am a second-year math student at the University of Waterloo in Canada.
+I am a third-year math student at the University of Waterloo in Canada.
 
 You can reach me at lfkhan@uwaterloo.ca
 
