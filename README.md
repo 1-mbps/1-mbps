@@ -4,9 +4,6 @@ I am a third-year math student at the University of Waterloo in Canada.
 
 You can reach me at lfkhan@uwaterloo.ca
 
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -59,33 +56,7 @@ You can reach me at lfkhan@uwaterloo.ca
 <a href="https://linkedin.com/in/lucas-khan-101a51253" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
+</div>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
